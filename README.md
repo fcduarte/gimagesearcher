@@ -25,4 +25,4 @@ The project uses third-party libraries to improve HTTP requests and image lazy l
 
 Walkthrough of all user stories:
 
-![Video Walkthrough]()
+![gimagesearcher](https://cloud.githubusercontent.com/assets/1507064/3283172/016fd036-f50d-11e3-8b1d-1ccff4efbd4d.gif)
