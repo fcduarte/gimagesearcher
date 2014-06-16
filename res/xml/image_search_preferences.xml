@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <ListPreference
+        android:entries="@array/imageSizes"
+        android:entryValues="@array/imageSizesValues"
+        android:key="imgsz"
+        android:title="@string/pref_image_size_title" />
+    
+    <ListPreference
+        android:entries="@array/colorFilters"
+        android:entryValues="@array/colorFiltersValues"
+        android:key="imgcolor"
+        android:title="@string/pref_color_filter_title" />
+
+    <ListPreference
+        android:entries="@array/imageTypes"
+        android:entryValues="@array/imageTypesValues"
+        android:key="imgtype"
+        android:title="@string/pref_image_type_title" />
+
+    <EditTextPreference
+        android:key="as_sitesearch"
+        android:title="@string/pref_site_filter_title" />
+
+</PreferenceScreen>

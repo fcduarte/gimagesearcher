@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+    
+    <item
+        android:id="@+id/search_menu_item"
+        android:showAsAction="ifRoom"
+        android:title="@string/search"
+        android:actionViewClass="android.widget.SearchView">
+    </item>
+    
+    <item
+        android:id="@+id/preferences_menu_item"
+        android:icon="@drawable/ic_action_preferences"
+        android:showAsAction="always"
+        android:onClick="onPreferencesMenuItemClicked"
+        android:title="@string/preferences">
+    </item>
+    
+</menu>

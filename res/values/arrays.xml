@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="imageSizes">
+        <item name="0">Small</item>
+        <item name="1">Medium</item>
+        <item name="2">Large</item>
+        <item name="3">Extra Large</item>
+        <item name="4">Icon</item>
+    </string-array>
+    <string-array name="imageSizesValues">
+        <item name="0">small</item>
+        <item name="1">medium</item>
+        <item name="2">large</item>
+        <item name="3">xlarge</item>
+        <item name="4">icon</item>
+    </string-array>
+    
+    <string-array name="colorFilters">
+        <item name="0">Black</item>
+        <item name="1">Blue</item>
+        <item name="2">Brown</item>
+        <item name="3">Gray</item>
+        <item name="4">Green</item>
+        <item name="5">Orange</item>
+        <item name="6">Pink</item>
+        <item name="7">Purple</item>
+        <item name="8">Red</item>
+        <item name="9">Teal</item>
+        <item name="10">White</item>
+        <item name="11">Yellow</item>
+        <item name="12">None</item>
+    </string-array>
+    <string-array name="colorFiltersValues">
+        <item name="0">black</item>
+        <item name="1">blue</item>
+        <item name="2">brown</item>
+        <item name="3">gray</item>
+        <item name="4">green</item>
+        <item name="5">orange</item>
+        <item name="6">pink</item>
+        <item name="7">purple</item>
+        <item name="8">red</item>
+        <item name="9">teal</item>
+        <item name="10">white</item>
+        <item name="11">yellow</item>
+        <item name="12"></item>
+    </string-array>
+    
+    <string-array name="imageTypes">
+        <item name="0">Faces</item>
+        <item name="1">Photo</item>
+        <item name="2">Clip-art</item>
+        <item name="3">Line-art</item>
+    </string-array>
+    <string-array name="imageTypesValues">
+        <item name="0">faces</item>
+        <item name="1">photo</item>
+        <item name="2">clipart</item>
+        <item name="3">lineart</item>
+    </string-array>
+    
+</resources>
