@@ -21,7 +21,7 @@ Completed user stories:
 
 Notes:
 
-The project uses third-party libraries to improve HTTP requests and image lazy loading such as Square's Picaso and loopj's Android Asynchronous Http Client.
+The project uses third-party libraries to improve HTTP requests and image lazy loading such as Square's Picasso and loopj's Android Asynchronous Http Client.
 
 Walkthrough of all user stories:
 
