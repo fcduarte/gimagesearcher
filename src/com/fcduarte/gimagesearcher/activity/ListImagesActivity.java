@@ -20,11 +20,11 @@ import android.widget.GridView;
 import android.widget.SearchView;
 
 import com.fcduarte.gimagesearcher.R;
+import com.fcduarte.gimagesearcher.adapter.ImageGridViewAdapter;
 import com.fcduarte.gimagesearcher.listener.EndlessScrollListener;
 import com.fcduarte.gimagesearcher.model.GoogleImage;
 import com.fcduarte.gimagesearcher.model.GoogleImageResult;
 import com.fcduarte.gimagesearcher.rest.GoogleImageSearchRestClient;
-import com.fcduarte.gimagesearcher.view.ImageGridViewAdapter;
 import com.loopj.android.http.JsonHttpResponseHandler;
 
 public class ListImagesActivity extends Activity {

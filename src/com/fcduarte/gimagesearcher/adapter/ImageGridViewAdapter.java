@@ -1,4 +1,4 @@
-package com.fcduarte.gimagesearcher.view;
+package com.fcduarte.gimagesearcher.adapter;
 
 import static android.widget.ImageView.ScaleType.CENTER_CROP;
 
@@ -11,8 +11,8 @@ import android.view.ViewGroup;
 import android.widget.BaseAdapter;
 
 import com.fcduarte.gimagesearcher.R;
-import com.fcduarte.gimagesearcher.adapter.SquaredImageView;
 import com.fcduarte.gimagesearcher.model.GoogleImage;
+import com.fcduarte.gimagesearcher.view.SquaredImageView;
 import com.squareup.picasso.Picasso;
 
 public class ImageGridViewAdapter extends BaseAdapter {

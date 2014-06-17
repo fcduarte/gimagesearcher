@@ -1,4 +1,4 @@
-package com.fcduarte.gimagesearcher.adapter;
+package com.fcduarte.gimagesearcher.view;
 
 import android.content.Context;
 import android.util.AttributeSet;
