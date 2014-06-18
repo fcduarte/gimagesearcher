@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">gImageSearcher</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="preferences">Preferences</string>
+    <string name="search">Search</string>
+    <string name="search_label">Search</string>
+    <string name="search_hint">Search Google Images API</string>
+    <string name="title_activity_image_searchable">ImageSearchableActivity</string>
+    <string name="no_results">No results here yet. What about trying to search a different image?</string>
+    <string name="title_activity_preferences">Advanced Search Options</string>
+    <string name="pref_image_size_title">Image Size</string>
+    <string name="pref_color_filter_title">Color Filter</string>
+    <string name="pref_image_type_title">Image Type</string>
+    <string name="pref_site_filter_title">Site Filter</string>
+    <string name="title_activity_image_fullscreen">Show Image</string>
+    <string name="fullscreen_image">Fullscreen image</string>
+
+</resources>
